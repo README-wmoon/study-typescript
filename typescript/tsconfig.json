@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "strictNullChecks": true,
+        "module": "ES6",
+        "strict": true
+    },
+    // exclude --> 적용시키지 않는 폴더
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "src"
+    ]
+}
